@@ -1,0 +1,32 @@
+{
+  "name": "BlobPublicComponentDemo",
+  "version": "0.0.1",
+  "summary": "公共组件制作的演示组件.",
+  "description": "BlobPublicComponentDemo 公共组件制作的演示组件",
+  "homepage": "https://github.com/fanxiaocong/BlobPublicComponentDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanxiaocong": "1016697223@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fanxiaocong/BlobPublicComponentDemo.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BlobPublicComponentDemo/Classes/*",
+  "resource_bundles": {
+    "BlobPublicComponentDemo": [
+      "BlobPublicComponentDemo/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "XCMacros": [
+      "~> 1.0.4"
+    ]
+  }
+}
